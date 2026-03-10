@@ -34,16 +34,6 @@ Durante o desenvolvimento foram aplicados diversos recursos da linguagem:
 * Stream API
 * Lambda Expressions
 
-## 📂 Estrutura do projeto
-
-```
-src/
- ├── game
- ├── ui
- ├── utils
- └── main
-```
-
 ## 🎯 Objetivo do projeto
 
 Explorar a implementação de um jogo clássico para exercitar:
